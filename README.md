@@ -48,4 +48,4 @@ Identify patterns across job roles, salary levels, or tenure
 Support strategic decisions for employee engagement and retention
 
 Screenshot/Demo:
-Dashboard Preview : 
+Dashboard Preview : https://github.com/vrajdarji-31/HR-Analysis-Attrition_Dashboard/blob/main/Dashboard_Snapshot.png
